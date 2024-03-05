@@ -42,6 +42,7 @@ O pandas nos auxilia na consulta de dados em uma base de dados e a sua manipula�
 |pyautogui.press        |Pressionar 1 tecla do teclado          |
 |pyautogui.hotkey("","")|Permite combinar teclas                |
 |pyautogui.PAUSE        |dar uma pausa execução de utodos os comandos pyautogui|
+|pyautogui.scroll       |roda para cima (+) roda para baixo (-)|
 
 Para mais informações acessar a [documentação](https://pyautogui.readthedocs.io/en/latest/)
 
